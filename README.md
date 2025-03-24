@@ -1,6 +1,5 @@
 ## Hi there, I am Christopher Hunt 👋
 
-<!--
 **christopherhunt00/christopherhunt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on building my skills and portfolio to become a business analyst.
